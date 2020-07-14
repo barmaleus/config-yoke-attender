@@ -23,4 +23,4 @@ server:
 
 yoke:
   notify:
-    url: http://yoke-event/event
+    url: http://localhost/event
